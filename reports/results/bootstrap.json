@@ -1,0 +1,13 @@
+{
+ "model": "rf",
+ "baseline": "seasonal_mean_4w",
+ "B": 2000,
+ "n_dates": 61,
+ "mean_rmse_reduction": 42.07049978313817,
+ "ci95": [
+  20.616925727770102,
+  68.62751963848997
+ ],
+ "share_model_better": 1.0,
+ "significant": true
+}

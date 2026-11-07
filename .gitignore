@@ -1,0 +1,29 @@
+data/raw/
+data/interim/
+data/processed/
+.env
+# Local environments and machine-specific files
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python caches and temporary files
+__pycache__/
+*.py[cod]
+*.part
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local data and generated model inputs
+data/raw/
+data/interim/
+data/processed/
+reports/results/test_predictions.parquet

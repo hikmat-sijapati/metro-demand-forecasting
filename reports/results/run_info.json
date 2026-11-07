@@ -1,0 +1,57 @@
+{
+ "grain": "hour",
+ "fast": false,
+ "python": "3.14.8",
+ "platform": "macOS-26.5.2-arm64-arm-64bit-Mach-O",
+ "processor": "arm",
+ "best_params": {
+  "ridge": {
+   "regressor__m__alpha": 100
+  },
+  "lasso": {
+   "regressor__m__alpha": 0.01
+  },
+  "bayes": {
+   "alpha_": 13.262416165715585,
+   "lambda_": 329.87939733392176
+  },
+  "rf": {
+   "min_samples_leaf": 10,
+   "max_features": 0.4,
+   "max_depth": 20
+  },
+  "svr_linear": {
+   "regressor__m__C": 0.01
+  },
+  "svr_rbf": {
+   "regressor__m__C": 1
+  }
+ },
+ "train_rows": 230537,
+ "val_rows": 55200,
+ "test_rows": 67344,
+ "train_range": [
+  "2018-10-29",
+  "2019-07-20"
+ ],
+ "val_range": [
+  "2019-10-13",
+  "2019-12-01"
+ ],
+ "test_range": [
+  "2019-12-02",
+  "2020-01-31"
+ ],
+ "n_stations": 46,
+ "n_rows_modelling_table": 445817,
+ "tune_rows": 60000,
+ "svr_rbf_train_rows": 30000,
+ "models_run": [
+  "ridge",
+  "lasso",
+  "bayes",
+  "rf",
+  "svr_linear",
+  "svr_rbf"
+ ]
+}

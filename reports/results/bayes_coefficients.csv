@@ -1,0 +1,91 @@
+feature,coef_standardised_target
+num__lag_168,0.36377120269567076
+bin__is_holiday,-0.1749366880732235
+num__lag_mean_4w,0.16909006134836232
+num__lag_336,0.1463682066673791
+num__lag_24,0.1287892231854302
+num__lag_672,0.10168299718891283
+num__lag_504,0.05159616945591345
+num__month_cos,0.040032076492790586
+num__lag_48,0.033639093903137886
+cat__dow_4,-0.031364610012412975
+cat__dow_6,0.022078537172532154
+cat__dow_5,0.019506746492036174
+cat__hour_15,-0.015795171977814312
+cat__hour_18,0.014934792768868133
+cat__hour_16,-0.014736361054516547
+cat__station_BurJuman Metro Station,0.014492924818612798
+cat__station_DMCC Metro Station,0.013902368197379795
+cat__hour_19,0.013739293435155321
+cat__hour_7,0.013226834112627444
+cat__station_Mall of the Emirates Metro Station,0.012803281895788552
+cat__dow_3,0.012209151349608547
+bin__is_weekend,-0.011857863182590628
+cat__station_Burj Khalifa/Dubai Mall Metro Station,0.011771019176482433
+cat__dow_1,-0.011316052015138184
+cat__station_World Trade Centre Metro Station,-0.009758100334255627
+cat__hour_22,0.009749548677609585
+cat__station_Danube Metro Station,-0.009625335196754733
+cat__hour_0,-0.009344254984502878
+cat__station_Union Metro Station,0.009207565652361428
+cat__station_Dubai Internet City Metro Station,0.009044299057769071
+cat__hour_8,0.008891141117791301
+cat__hour_1,-0.007669312075507088
+cat__station_Deira City Centre Metro Station,0.007424808161835605
+cat__hour_21,0.0073845902146082824
+cat__hour_14,-0.006927212751463231
+cat__station_UAE Exchange Metro Station,-0.006536417442577946
+cat__station_Energy Metro Station,-0.006472587381378561
+cat__hour_2,-0.006166227336316929
+cat__station_Al Rigga Metro Station,0.006030370213601576
+cat__station_Palm Deira Metro Station,-0.005943718382776628
+cat__station_Creek Metro Station,-0.00585666742706847
+cat__dow_0,-0.005846631910542956
+cat__hour_3,-0.00559609003313278
+cat__station_Baniyas Square Metro Station,0.005289699995806486
+cat__dow_2,-0.0052671413310054534
+cat__hour_4,-0.005044809851800671
+cat__station_Al Qusais Metro Station,-0.0049309641381940494
+cat__station_Etisalat Metro Station,-0.004712306211805552
+cat__station_ADCB Metro Station,0.004661303885494974
+cat__station_Ibn Battuta Metro Station,-0.004641913123288247
+cat__station_Nakheel Metro Station,-0.004366167809721691
+cat__station_Airport Terminal 1 Metro Station,-0.0043189977970618364
+cat__station_Business Bay Metro Station,0.004183010798852386
+cat__station_Emirates Metro Station,-0.004103248739742282
+cat__station_Al Jadaf Metro Station,-0.0038852544182481465
+cat__hour_20,0.003839826692044945
+cat__hour_23,-0.0037128360347315967
+num__month_sin,0.003701162553327354
+cat__hour_6,0.0036493243194129148
+cat__station_DAMAC Properties Metro Station,0.0036457385390302947
+cat__station_Dubai Healthcare City Metro Station,-0.0036420518688151313
+cat__station_GGICO Metro Station,-0.0036229539827232703
+cat__station_Stadium Metro Station,0.0028229043104348525
+cat__station_Airport Terminal 3 Metro Station,-0.0027942352493022945
+cat__hour_5,-0.0027448314858510626
+cat__station_Salah Al Din Metro Station,-0.0027207310043155385
+cat__station_Rashidiya Metro Station,-0.002653558768036628
+cat__station_First Abu Dhabi Bank Metro Station,-0.0025995127505433206
+cat__hour_13,-0.002475665908033465
+cat__station_Abu Hail Metro Station,-0.0023969932213281525
+cat__station_Al Ghubaiba Metro Station,-0.0022554566393066912
+cat__station_Al Fahidi Metro Station,0.0022196184172966265
+cat__station_Al Qiyadah Metro Station,-0.00218050452942338
+cat__station_Al Nahda Metro Station,-0.0021082012345782133
+cat__station_Dubai Airport Free Zone Metro Station,-0.0020285573307983295
+cat__hour_9,0.0018222145475588394
+cat__station_Al Ras Metro Station,-0.0016749211863071086
+cat__station_Oud Metha Metro Station,0.0016519901390639289
+num__hour_sin,-0.0016374972991998178
+cat__hour_10,0.001550986885451682
+cat__hour_12,0.0013422091071771999
+cat__hour_11,0.0011501266857031644
+cat__station_Noor Bank Metro Station,-0.0011360846856981416
+cat__station_Abu Baker Al Siddique Metro Station,-0.0010959916015529916
+cat__hour_17,-0.0010681157583185235
+cat__station_Al Jafiliya Metro Station,-0.0009410942830235285
+num__hour_cos,0.0007392124080933148
+cat__station_Emirates Towers Metro Station,-0.0005369694430031196
+cat__station_Sharaf DG Metro Station,0.0005212444340111085
+cat__station_Financial Centre Metro Station,-0.00013265408699021728
